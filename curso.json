@@ -1,19 +1,19 @@
 {
   "id": "figma-criadores-v62",
   "titulo": "Design Essencial no Figma para Criadores v6.2",
-  "titulo_html": "Organize ideias <em>em peças visuais</em>",
+  "titulo_html": "Organize ideias <em>em peÃ§as visuais</em>",
   "curso_curto": "Figma para Criadores v6.2",
-  "kicker": "Design v6.2 · 6 módulos · 18 aulas",
-  "lead": "Monte uma capa e três páginas com imagem, texto e critérios claros de revisão.",
+  "kicker": "Design v6.2 Â· 6 mÃ³dulos Â· 18 aulas",
+  "lead": "Monte uma capa e trÃªs pÃ¡ginas com imagem, texto e critÃ©rios claros de revisÃ£o.",
   "imagem_trilha": "assets/img/trilha.webp",
-  "alt_trilha": "Fotógrafa e guia planejam uma série de peças visuais.",
-  "rodape": "Figma para Criadores v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "alt_trilha": "FotÃ³grafa e guia planejam uma sÃ©rie de peÃ§as visuais.",
+  "rodape": "Figma para Criadores v6.2 Â· ARCKHÉ AI PRO Â· <a href=\"landing.html\">sobre o curso</a>",
   "landing": "landing.html",
   "glossario": true,
   "modulos": [
     {
-      "titulo": "Módulo 1 · Arquivo e critérios",
-      "resumo": "Comece no produto certo e planeje uma capa com três páginas.",
+      "titulo": "MÃ³dulo 1 Â· Arquivo e critÃ©rios",
+      "resumo": "Comece no produto certo e planeje uma capa com trÃªs pÃ¡ginas.",
       "aulas": [
         1,
         2,
@@ -21,8 +21,8 @@
       ]
     },
     {
-      "titulo": "Módulo 2 · Quadros e imagens",
-      "resumo": "Organize dimensões, camadas e recortes.",
+      "titulo": "MÃ³dulo 2 Â· Quadros e imagens",
+      "resumo": "Organize dimensÃµes, camadas e recortes.",
       "aulas": [
         4,
         5,
@@ -30,8 +30,8 @@
       ]
     },
     {
-      "titulo": "Módulo 3 · Texto e composição",
-      "resumo": "Crie hierarquia, alinhamento e cores conferíveis.",
+      "titulo": "MÃ³dulo 3 Â· Texto e composiÃ§Ã£o",
+      "resumo": "Crie hierarquia, alinhamento e cores conferÃ­veis.",
       "aulas": [
         7,
         8,
@@ -39,8 +39,8 @@
       ]
     },
     {
-      "titulo": "Módulo 4 · Efeitos com propósito",
-      "resumo": "Teste sobreposição, desfoque e máscara sem esconder a mensagem.",
+      "titulo": "MÃ³dulo 4 Â· Efeitos com propÃ³sito",
+      "resumo": "Teste sobreposiÃ§Ã£o, desfoque e mÃ¡scara sem esconder a mensagem.",
       "aulas": [
         10,
         11,
@@ -48,8 +48,8 @@
       ]
     },
     {
-      "titulo": "Módulo 5 · Repetição e recursos",
-      "resumo": "Use estilos e componentes, desenhe um traço e avalie complementos.",
+      "titulo": "MÃ³dulo 5 Â· RepetiÃ§Ã£o e recursos",
+      "resumo": "Use estilos e componentes, desenhe um traÃ§o e avalie complementos.",
       "aulas": [
         13,
         14,
@@ -57,8 +57,8 @@
       ]
     },
     {
-      "titulo": "Módulo 6 · Revisão e entrega",
-      "resumo": "Revise, exporte e guarde uma série de quatro peças.",
+      "titulo": "MÃ³dulo 6 Â· RevisÃ£o e entrega",
+      "resumo": "Revise, exporte e guarde uma sÃ©rie de quatro peÃ§as.",
       "aulas": [
         16,
         17,

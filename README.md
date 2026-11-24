@@ -1,4 +1,4 @@
-﻿# Design Essencial no Figma para Criadores v6.2
+# Design Essencial no Figma para Criadores v6.2
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,7 +6,7 @@
 </div>
 
 
-Curso aberto INEMA.CLUB. 18 aulas em 6 mÃ³dulos, inspirado no OSWork v6.2. Caso fictÃ­cio Luz de Rua.
+Curso aberto ARCKHÉ AI. 18 aulas em 6 mÃ³dulos, inspirado no OSWork v6.2. Caso fictÃ­cio Luz de Rua.
 
 ProduÃ§Ã£o completa estimada: 8â€“12 horas, incluindo estudo e montagens. As prÃ¡ticas curtas nÃ£o substituem a produÃ§Ã£o final. Computador e conta Figma necessÃ¡rios para editar.
 
@@ -16,7 +16,7 @@ ReconstruÃ§Ã£o: `python3 montar.py`. EvidÃªncias de auditoria e leitura em
 
 ## English / EspaÃ±ol
 
-[English](https://inematds.github.io/curso-figma-criadores/en/) Â· [EspaÃ±ol](https://inematds.github.io/curso-figma-criadores/es/)
+[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
 
 Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
 
@@ -32,13 +32,13 @@ Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos s
 
 EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
 
-<!-- inema-backlink:v1 -->
-## Mais no INEMA.CLUB
+<!-- ARCKHÉ-backlink:v1 -->
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/297-design-essencial-no-figma-para-criadores/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
-<!-- /inema-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/297-design-essencial-no-figma-para-criadores/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
+<!-- /ARCKHÉ-backlink:v1 -->
 
 ---
 
