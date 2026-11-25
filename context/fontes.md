@@ -1,6 +1,6 @@
 # Fontes oficiais
 
-Consultadas em 25/09/2026. Nomes e recursos podem variar por conta e versão.
+Consultadas em 25/09/2026. Nomes e recursos podem variar por conta e versêo.
 
 - [Plano Starter](https://help.figma.com/hc/en-us/articles/13838684089751-Starter-plan-overview)
 - [Quadros](https://help.figma.com/hc/en-us/articles/360041539473-Frames-in-Figma-Design)
@@ -13,7 +13,7 @@ Consultadas em 25/09/2026. Nomes e recursos podem variar por conta e versão.
 - [Complementos](https://help.figma.com/hc/en-us/articles/360042532714-Use-plugins-in-files)
 - [Caneta](https://help.figma.com/hc/en-us/articles/360040450213-Vector-networks)
 - [Compartilhamento](https://help.figma.com/hc/en-us/articles/1500007609322-Guide-to-sharing-and-permissions)
-- [Exportação](https://help.figma.com/hc/en-us/articles/360040028114-Export-static-designs-from-Figma)
+- [Exportaçêo](https://help.figma.com/hc/en-us/articles/360040028114-Export-static-designs-from-Figma)
 - [Formatos](https://help.figma.com/hc/en-us/articles/13402894554519-Export-formats-and-settings-for-static-designs)
 - [Cópia local](https://help.figma.com/hc/en-us/articles/8403626871063-Save-a-local-copy-of-files)
 - [Imagens](https://www.figma.com/best-practices/working-with-images-in-figma/)

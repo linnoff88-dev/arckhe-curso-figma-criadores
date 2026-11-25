@@ -6,21 +6,21 @@
 </div>
 
 
-Curso aberto ARCKHÉ AI. 18 aulas em 6 mÃ³dulos, inspirado no OSWork v6.2. Caso fictÃ­cio Luz de Rua.
+Curso aberto ARCKHê AI. 18 aulas em 6 mêÂ³dulos, inspirado no OSWork v6.2. Caso fictêÂ­cio Luz de Rua.
 
-ProduÃ§Ã£o completa estimada: 8â€“12 horas, incluindo estudo e montagens. As prÃ¡ticas curtas nÃ£o substituem a produÃ§Ã£o final. Computador e conta Figma necessÃ¡rios para editar.
+ProduêÂ§êÂ£o completa estimada: 8ê¢â¬â12 horas, incluindo estudo e montagens. As prêÂ¡ticas curtas nêÂ£o substituem a produêÂ§êÂ£o final. Computador e conta Figma necessêÂ¡rios para editar.
 
-Imagens criadas pelo recurso nativo de imagens do Codex. A ferramenta nÃ£o expÃµe seletor nem confirmaÃ§Ã£o de uma versÃ£o chamada 2.5; nenhum modelo externo foi substituÃ­do. Diagramas e exemplos tipogrÃ¡ficos sÃ£o HTML autoral, nÃ£o capturas do Figma. A interface real do Figma nÃ£o foi operada nesta produÃ§Ã£o; os caminhos foram conferidos na documentaÃ§Ã£o oficial em 25/09/2026. O kit contÃ©m imagem e roteiro, nÃ£o um arquivo .fig pronto.
+Imagens criadas pelo recurso nativo de imagens do Codex. A ferramenta nêÂ£o expêÂµe seletor nem confirmaêÂ§êÂ£o de uma versêÂ£o chamada 2.5; nenhum modelo externo foi substituêÂ­do. Diagramas e exemplos tipogrêÂ¡ficos sêÂ£o HTML autoral, nêÂ£o capturas do Figma. A interface real do Figma nêÂ£o foi operada nesta produêÂ§êÂ£o; os caminhos foram conferidos na documentaêÂ§êÂ£o oficial em 25/09/2026. O kit contêÂ©m imagem e roteiro, nêÂ£o um arquivo .fig pronto.
 
-ReconstruÃ§Ã£o: `python3 montar.py`. EvidÃªncias de auditoria e leitura em context/.
+ReconstruêÂ§êÂ£o: `python3 montar.py`. EvidêÂªncias de auditoria e leitura em context/.
 
-## English / EspaÃ±ol
+## English / EspaêÂ±ol
 
-[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
+[English](https://linnoff88-dev.github.io/ êÂ· [EspaêÂ±ol](https://linnoff88-dev.github.io/
 
-Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
+Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraêÂ§êÂµes originais compartilhadas; progresso e anotaêÂ§êÂµes separados por idioma.
 
-ApÃ³s montar o portuguÃªs, reaplique os catÃ¡logos salvos:
+ApêÂ³s montar o portuguêÂªs, reaplique os catêÂ¡logos salvos:
 
 ```sh
 python3 scripts/i18n_local.py build .
@@ -28,17 +28,17 @@ python3 scripts/verify_i18n.py .
 node scripts/check_i18n_browser.cjs . /tmp/curso-i18n-checks
 ```
 
-Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos scripts. A montagem nÃ£o chama modelos nem redes. MudanÃ§as na fonte PT exigem revisar os catÃ¡logos `i18n/`. O motor oficial `assets/curso.js` Ã© preservado; a proteÃ§Ã£o de importaÃ§Ã£o Ã© gerada em `assets/curso-i18n.js` e nas ediÃ§Ãµes traduzidas.
+Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos scripts. A montagem nêÂ£o chama modelos nem redes. MudanêÂ§as na fonte PT exigem revisar os catêÂ¡logos `i18n/`. O motor oficial `assets/curso.js` êÂ© preservado; a proteêÂ§êÂ£o de importaêÂ§êÂ£o êÂ© gerada em `assets/curso-i18n.js` e nas ediêÂ§êÂµes traduzidas.
 
-EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
+EvidêÂªncias em `context/validacao-i18n.md`. RevisêÂµes por agentes sêÂ£o simuladas, nêÂ£o testes com alunos reais.
 
-<!-- ARCKHÉ-backlink:v1 -->
-## Mais no ARCKHÉ AI
+<!-- ARCKHê-backlink:v1 -->
+## Mais no ARCKHê AI
 
-- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/297-design-essencial-no-figma-para-criadores/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
-<!-- /ARCKHÉ-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHê AI/cursos/297-design-essencial-no-figma-para-criadores/)
+- [Guia: como aprender inteligêÂªncia artificial](https://www.ARCKHê AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHê AI/cursos/)
+<!-- /ARCKHê-backlink:v1 -->
 
 ---
 
